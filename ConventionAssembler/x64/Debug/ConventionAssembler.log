@@ -1,0 +1,2 @@
+﻿  Assembling Code.asm
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\BuildCustomizations\vsyasm.targets(45,5): error MSB3721: выход из команды ""C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\"vsyasm.exe -Xvc -f x64 -o "x64\Debug\\" -rnasm -pnasm   Code.asm" с кодом "1".
